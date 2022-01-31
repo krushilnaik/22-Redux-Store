@@ -1,20 +1,19 @@
-# 22-Redux-Store
-
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-	- [Redux Store](#redux-store)
-	- [Description](#description)
-	- [Installation](#installation)
-	- [Questions](#questions)
-
-## Redux Store
+# Redux Store
 
 <p align="center">
 	<a href="https://redux-store-kn.herokuapp.com/">
 		<img src="https://i.imgur.com/nT9LavM.png" height="40" />
 	</a>
 </p>
+
+# Table of Contents
+
+- [Redux Store](#redux-store)
+- [Table of Contents](#table-of-contents)
+	- [Description](#description)
+	- [Installation](#installation)
+	- [Questions](#questions)
+
 
 ## Description
 
